@@ -1,4 +1,4 @@
-# AI Game Web Application
+# Love and DeepSpace AI Game Web Application
 
 Welcome to my AI Game Web Application! 🎮
 
